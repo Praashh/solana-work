@@ -1,0 +1,21 @@
+{
+  "name": "candy-machine",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@metaplex-foundation/mpl-candy-machine": "^6.1.0",
+    "@metaplex-foundation/mpl-core": "^1.3.0",
+    "@metaplex-foundation/mpl-core-candy-machine": "^0.3.0",
+    "@metaplex-foundation/umi": "^1.2.0",
+    "@metaplex-foundation/umi-bundle-defaults": "^1.2.0",
+    "@solana/web3.js": "1",
+    "dotenv": "^16.5.0"
+  }
+}
